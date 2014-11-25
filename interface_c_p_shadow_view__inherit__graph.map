@@ -1,0 +1,5 @@
+<map id="CPShadowView" name="CPShadowView">
+<area shape="rect" id="node2" href="$interface_c_p_view.html" title="CPView" alt="" coords="30,157,98,184"/>
+<area shape="rect" id="node3" href="$interface_c_p_responder.html" title="CPResponder" alt="" coords="11,81,117,109"/>
+<area shape="rect" id="node4" href="$interface_c_p_object.html" title="The root class from which most classes are subclassed. " alt="" coords="24,5,104,33"/>
+</map>

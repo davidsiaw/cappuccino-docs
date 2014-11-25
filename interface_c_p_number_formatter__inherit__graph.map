@@ -1,0 +1,4 @@
+<map id="CPNumberFormatter" name="CPNumberFormatter">
+<area shape="rect" id="node2" href="$interface_c_p_formatter.html" title="CPFormatter is an abstract class that declares an interface for objects that create, interpret, and validate the textual representation of cell contents. The Foundation framework provides two concrete subclasses of CPFormatter to generate these objects: CPNumberFormatter and CPDateFormatter. " alt="" coords="31,81,133,109"/>
+<area shape="rect" id="node3" href="$interface_c_p_object.html" title="The root class from which most classes are subclassed. " alt="" coords="42,5,122,33"/>
+</map>

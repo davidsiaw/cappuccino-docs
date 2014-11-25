@@ -1,0 +1,6 @@
+<map id="CPPredicate" name="CPPredicate">
+<area shape="rect" id="node3" href="$interface_c_p_comparison_predicate.html" title="CPComparisonPredicate is a subclass of CPPredicate used to compare expressions. " alt="" coords="5,157,180,184"/>
+<area shape="rect" id="node4" href="$interface_c_p_compound_predicate.html" title="CPCompoundPredicate is a subclass of CPPredicate used to represent logical “gate” operations (AND/O..." alt="" coords="204,157,373,184"/>
+<area shape="rect" id="node5" href="$class_c_p_predicate___b_o_o_l.html" title="CPPredicate_BOOL" alt="" coords="396,157,536,184"/>
+<area shape="rect" id="node2" href="$interface_c_p_object.html" title="The root class from which most classes are subclassed. " alt="" coords="249,5,329,33"/>
+</map>

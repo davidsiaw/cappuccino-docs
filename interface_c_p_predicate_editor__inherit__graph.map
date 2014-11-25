@@ -1,0 +1,7 @@
+<map id="CPPredicateEditor" name="CPPredicateEditor">
+<area shape="rect" id="node2" href="$interface_c_p_rule_editor.html" title="A view for creating and configuring criteria. " alt="" coords="21,308,125,336"/>
+<area shape="rect" id="node3" href="$interface_c_p_control.html" title="CPControl" alt="" coords="30,232,116,260"/>
+<area shape="rect" id="node4" href="$interface_c_p_view.html" title="CPView" alt="" coords="39,157,107,184"/>
+<area shape="rect" id="node5" href="$interface_c_p_responder.html" title="CPResponder" alt="" coords="20,81,126,109"/>
+<area shape="rect" id="node6" href="$interface_c_p_object.html" title="The root class from which most classes are subclassed. " alt="" coords="33,5,113,33"/>
+</map>

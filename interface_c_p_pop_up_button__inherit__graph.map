@@ -1,0 +1,7 @@
+<map id="CPPopUpButton" name="CPPopUpButton">
+<area shape="rect" id="node2" href="$interface_c_p_button.html" title="CPButton" alt="" coords="26,308,106,336"/>
+<area shape="rect" id="node3" href="$interface_c_p_control.html" title="CPControl" alt="" coords="23,232,109,260"/>
+<area shape="rect" id="node4" href="$interface_c_p_view.html" title="CPView" alt="" coords="32,157,100,184"/>
+<area shape="rect" id="node5" href="$interface_c_p_responder.html" title="CPResponder" alt="" coords="13,81,119,109"/>
+<area shape="rect" id="node6" href="$interface_c_p_object.html" title="The root class from which most classes are subclassed. " alt="" coords="26,5,106,33"/>
+</map>

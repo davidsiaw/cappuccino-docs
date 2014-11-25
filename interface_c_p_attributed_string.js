@@ -1,0 +1,28 @@
+var interface_c_p_attributed_string =
+[
+    [ "addAttribute:value:range:", "interface_c_p_attributed_string.html#a242734cae754c4597edf3fb704cd051f", null ],
+    [ "addAttributes:range:", "interface_c_p_attributed_string.html#a80c9f3695b77c82439682bf98d010795", null ],
+    [ "appendAttributedString:", "interface_c_p_attributed_string.html#adf87ae68982cc59b80c0f9a8fc54709f", null ],
+    [ "attribute:atIndex:effectiveRange:", "interface_c_p_attributed_string.html#a2fb9abf5a844f0697fa24c36ed0d6345", null ],
+    [ "attribute:atIndex:longestEffectiveRange:inRange:", "interface_c_p_attributed_string.html#ae0ef15b44a01d358614e7c7b26a37b36", null ],
+    [ "attributedSubstringFromRange:", "interface_c_p_attributed_string.html#aaaea6bce842968710960d921ad6cd23c", null ],
+    [ "attributesAtIndex:effectiveRange:", "interface_c_p_attributed_string.html#aa26160e165ec50c19b8d01aff99c77d1", null ],
+    [ "attributesAtIndex:longestEffectiveRange:inRange:", "interface_c_p_attributed_string.html#a32fb877c1eca09242b85d0799e735188", null ],
+    [ "beginEditing", "interface_c_p_attributed_string.html#af03c792e2666774116d7030ee43df31b", null ],
+    [ "deleteCharactersInRange:", "interface_c_p_attributed_string.html#abd8d8d8b5051572a07dbbfbdccf02e3f", null ],
+    [ "endEditing", "interface_c_p_attributed_string.html#a78a167606f00439f78f1fa5b2f384935", null ],
+    [ "initWithAttributedString:", "interface_c_p_attributed_string.html#a021b26cb1e50b33013122bc3beadd690", null ],
+    [ "initWithString:", "interface_c_p_attributed_string.html#ab4a83b775f69c364072edd226c69e2a8", null ],
+    [ "initWithString:attributes:", "interface_c_p_attributed_string.html#a7962dc13a967f9fc57860e6646085c8f", null ],
+    [ "insertAttributedString:atIndex:", "interface_c_p_attributed_string.html#a17141b9b7a0812d2940013f664ccfe1a", null ],
+    [ "isEqual:", "interface_c_p_attributed_string.html#a4c2e2112f80871865a106fa4ea0a782b", null ],
+    [ "isEqualToAttributedString:", "interface_c_p_attributed_string.html#a38dfa968a31de15001abd748430b08dd", null ],
+    [ "length", "interface_c_p_attributed_string.html#a739ed5cfe475ebd1d02d072b901191b5", null ],
+    [ "mutableString", "interface_c_p_attributed_string.html#add1f79eee6cfb9ed5fed01a560b9073a", null ],
+    [ "removeAttribute:range:", "interface_c_p_attributed_string.html#ab9d0e4c0ee6d72849a2c2bc95023218d", null ],
+    [ "replaceCharactersInRange:withAttributedString:", "interface_c_p_attributed_string.html#aae58fabfc7b981dc51068ee5984bb3cd", null ],
+    [ "replaceCharactersInRange:withString:", "interface_c_p_attributed_string.html#ad48a327ddfaf49d1f3fb8a7392800b4c", null ],
+    [ "setAttributedString:", "interface_c_p_attributed_string.html#a132b3d0ea39601892cacb7170849ba6c", null ],
+    [ "setAttributes:range:", "interface_c_p_attributed_string.html#a86cd67d9cf05c43b7048fa3ceaf37593", null ],
+    [ "string", "interface_c_p_attributed_string.html#a443e20fb6fb30a16f5fdaef64679ed95", null ]
+];

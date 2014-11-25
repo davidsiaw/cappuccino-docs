@@ -1,0 +1,10 @@
+<map id="CPTextField" name="CPTextField">
+<area shape="rect" id="node6" href="$interface_c_p_combo_box.html" title="CPComboBox" alt="" coords="5,384,113,412"/>
+<area shape="rect" id="node7" href="$interface_c_p_search_field.html" title="CPSearchField" alt="" coords="137,384,248,412"/>
+<area shape="rect" id="node8" href="$interface_c_p_secure_text_field.html" title="CPSecureTextField" alt="" coords="271,384,410,412"/>
+<area shape="rect" id="node9" href="$interface_c_p_token_field.html" title="CPTokenField" alt="" coords="433,384,541,412"/>
+<area shape="rect" id="node2" href="$interface_c_p_control.html" title="CPControl" alt="" coords="223,232,309,260"/>
+<area shape="rect" id="node3" href="$interface_c_p_view.html" title="CPView" alt="" coords="232,157,300,184"/>
+<area shape="rect" id="node4" href="$interface_c_p_responder.html" title="CPResponder" alt="" coords="213,81,319,109"/>
+<area shape="rect" id="node5" href="$interface_c_p_object.html" title="The root class from which most classes are subclassed. " alt="" coords="226,5,306,33"/>
+</map>
